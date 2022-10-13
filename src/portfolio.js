@@ -48,20 +48,20 @@ const projects = [
     livePreview: 'https://resource-planner-group2.herokuapp.com/',
   },
   {
-    name: 'Resource Planner',
+    name: 'GameStoreData(back end)',
     description:
-      'Resource Planner is able to distrute the current resource including human resource,time and budget in one company in order to help user to manahe their projects',
-    stack: ['html-css-javascript', 'sequelize', 'React'],
+      'GameStoreData is able to let user retrieve the game from database based on its year and category',
+    stack: ['Java 8', 'MySQL', 'React'],
     sourceCode: 'https://github.com/stone-com/Resource-Planner',
-    livePreview: 'https://resource-planner-group2.herokuapp.com/',
+    
   },
   {
-    name: 'Resource Planner',
+    name: 'Music Store(back end)',
     description:
-      'Resource Planner is able to distrute the current resource including human resource,time and budget in one company in order to help user to manahe their projects',
+      'MusicStore is able to direct user to the desired page by its endpoints such as track, album,artist and label',
     stack: ['html-css-javascript', 'sequelize', 'React'],
-    sourceCode: 'https://github.com/stone-com/Resource-Planner',
-    livePreview: 'https://resource-planner-group2.herokuapp.com/',
+    sourceCode: 'https://github.com/Morganbb104/M7-project2-musictore-recommendations-Huang_Chengchien',
+    livePreview: 'https://cheng32-musicstore-catalog.herokuapp.com/track',
   },
 ]
 
