@@ -65,6 +65,11 @@ const skills = [
   'Material UI',
   'Git',
   'MERN',
+  'Java 8',
+  'Java Spring Boot',
+  'Microservices',
+  'Docker',
+  'Heroku'
 ]
 
 const contact = {
