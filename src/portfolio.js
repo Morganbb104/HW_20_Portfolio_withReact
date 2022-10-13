@@ -58,7 +58,7 @@ const projects = [
   {
     name: 'Music Store(back end)',
     description:
-      'MusicStore is able to direct user to the desired page by its endpoints such as track, album,artist and label',
+      'MusicStore is able to direct user to the desired page based on its endpoints by track, album,artist and label',
     stack: ['html-css-javascript', 'sequelize', 'React'],
     sourceCode: 'https://github.com/Morganbb104/M7-project2-musictore-recommendations-Huang_Chengchien',
     livePreview: 'https://cheng32-musicstore-catalog.herokuapp.com/track',
