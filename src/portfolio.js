@@ -12,7 +12,7 @@ const about = {
   name: 'CHENG CHIEN',
   role: 'Full stack developer',
   description:
-    'UW bootcamp student.originally from Taiwan now living in Seattle, USA. highly interested in cutting edge technology, coding and biology.',
+    'UW and SMU bootcamp student living in Seattle,Washington. highly interested in cutting edge technology, web development and Java back end development.',
   resume: 'https://drive.google.com/drive/folders/12MP3uHk94Ew6_egSJqgxbvycI60gHfXA?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/cheng-chien-huang-912467152/',
@@ -38,6 +38,22 @@ const projects = [
     stack: ['swiper.js', 'npm', 'jawsdb','handlebars','express','nodejs'],
     sourceCode: 'https://github.com/Morganbb104/Event_Planner_project2',
     livePreview: 'https://obscure-chamber-98928.herokuapp.com/',
+  },
+  {
+    name: 'Resource Planner',
+    description:
+      'Resource Planner is able to distrute the current resource including human resource,time and budget in one company in order to help user to manahe their projects',
+    stack: ['html-css-javascript', 'sequelize', 'React'],
+    sourceCode: 'https://github.com/stone-com/Resource-Planner',
+    livePreview: 'https://resource-planner-group2.herokuapp.com/',
+  },
+  {
+    name: 'Resource Planner',
+    description:
+      'Resource Planner is able to distrute the current resource including human resource,time and budget in one company in order to help user to manahe their projects',
+    stack: ['html-css-javascript', 'sequelize', 'React'],
+    sourceCode: 'https://github.com/stone-com/Resource-Planner',
+    livePreview: 'https://resource-planner-group2.herokuapp.com/',
   },
   {
     name: 'Resource Planner',
