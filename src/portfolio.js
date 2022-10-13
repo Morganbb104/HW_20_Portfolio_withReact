@@ -13,7 +13,7 @@ const about = {
   role: 'Full stack developer',
   description:
     'UW bootcamp student.originally from Taiwan now living in Seattle, USA. highly interested in cutting edge technology, coding and biology.',
-  resume: 'https://example.com',
+  resume: 'https://drive.google.com/drive/folders/12MP3uHk94Ew6_egSJqgxbvycI60gHfXA?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/cheng-chien-huang-912467152/',
     github: 'https://github.com/Morganbb104',
@@ -44,8 +44,8 @@ const projects = [
     description:
       'Resource Planner is able to distrute the current resource including human resource,time and budget in one company in order to help user to manahe their projects',
     stack: ['html-css-javascript', 'sequelize', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/stone-com/Resource-Planner',
+    livePreview: 'https://resource-planner-group2.herokuapp.com/',
   },
 ]
 
