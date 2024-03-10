@@ -6,8 +6,9 @@
 
 .footer__link {
   font-size: 0.9rem;
-  font-weight: 600;
+  font-weight: 500;
   color: var(--clr-fg);
+  margin-left: 5px;
 }
 
 @media (max-width: 600px) {
