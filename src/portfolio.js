@@ -1,22 +1,20 @@
-import aboutpic from "./components/Access/mePhoto.jpg"
+// import aboutpic from "./components/Access/mePhoto.jpg"
 
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://morganbb104.github.io/HW_20_Portfolio_withReact/',
-  title: 'JS.',
+  homepage: 'https://www.linkedin.com/in/chantelalexiacarter/',
+  title: 'Chantel Carter'
 }
 
 const about = {
-  photo:aboutpic,
   // all the properties are optional - can be left empty or deleted
-  name: 'CHENG CHIEN',
-  role: 'Full stack developer',
+  name: 'Chantel Carter',
+  role: 'full-stack web developer with experience in React JS, Ruby on Rails, Jest, and RSpec testing',
   description:
-    'UW and SMU bootcamp student living in Seattle,Washington. highly interested in cutting edge technology, web development and Java back end development.',
-  resume: 'https://drive.google.com/drive/folders/12MP3uHk94Ew6_egSJqgxbvycI60gHfXA?usp=sharing',
+    "Based in Sounthern California I offer a diverse professional background to the technical community with experience as a Hospital Corpsman in the US Navy, real estate, and administrative roles.",
   social: {
-    linkedin: 'https://www.linkedin.com/in/cheng-chien-huang-912467152/',
-    github: 'https://github.com/Morganbb104',
+    linkedin: 'https://www.linkedin.com/in/chantelalexiacarter/',
+    github: 'https://github.com/chantelcarter',
   },
 }
 
@@ -68,29 +66,21 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+  'JavaScript',
+  'Ruby',
+  'React',
+  'Rails',
+  'PostgreSQL',
+  'RSpec',
+  'Jest',
   'HTML',
   'CSS',
-  'JavaScript',
-  'TypeScript',
-  'Express',
-  'MySQL',
-  'MongoDB',
-  'React',
-  'Redux',
-  'SASS',
-  'Material UI',
-  'Git',
-  'MERN',
-  'Java 8',
-  'Java Spring Boot',
-  'Microservices',
-  'Docker',
-  'Heroku'
+  'Git'
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'hcc780921@gmail.com',
+  email: 'carter.chantel.a@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
