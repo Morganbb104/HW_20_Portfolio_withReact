@@ -1,4 +1,5 @@
 // import aboutpic from "./components/Access/mePhoto.jpg"
+import test from "./assets/test.jpg"
 
 const header = {
   // all the properties are optional - can be left empty or deleted
@@ -23,6 +24,7 @@ const projects = [
   // if there are no projects, Projects section won't show up
   {
     name: 'Movie Tracker',
+    image: test,
     description:
       'As users, we see a page that lets anyone look for the movies from the search bar by key words, and obtaining the actual or similar movies with their years, actors, rating, and description information by recommendation. In addition, they can search the nearby theaters from where they currently are located.',
     stack: ['localstorage', 'Openweather API', 'Google Map API','Movie Database API'],
