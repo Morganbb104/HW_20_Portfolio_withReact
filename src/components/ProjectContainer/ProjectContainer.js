@@ -6,7 +6,7 @@ import './ProjectContainer.css'
 const ProjectContainer = ({ project }) => (
   <div className='project'>
     <h3>{project.name}</h3>
-
+    <img src={project.image} alt="test project" width="100"/>
     <p className='project__description'>{project.description}</p>
     {project.stack && (
       <ul className='project__stack'>
