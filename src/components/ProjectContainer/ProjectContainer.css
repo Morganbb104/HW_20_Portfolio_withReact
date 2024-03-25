@@ -31,3 +31,11 @@
 .project .link--icon {
   margin-left: 0.5em;
 }
+
+.project-image {
+  filter: grayscale(80%);
+}
+
+.project-image:hover {
+  filter: brightness(100%);
+}
